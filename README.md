@@ -32,6 +32,6 @@ Windows7 or above.
 Steps
 
 Clone the repository or download the project as a .zip file.
-git clone https://github.com/yourusername/coin-collector.git
+git clone https://github.com/1117DataStock/coin-collector.git
 Open the application named as Coin Collector.
 Start the game.
