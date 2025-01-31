@@ -26,9 +26,11 @@ The game will automatically close when you press Alt+F4.
 How to Run the Project
 
 Prerequisites
+
 Windows7 or above.
 
 Steps
+
 Clone the repository or download the project as a .zip file.
 git clone https://github.com/yourusername/coin-collector.git
 Open the application named as Coin Collector.
